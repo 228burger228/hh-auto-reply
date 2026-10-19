@@ -166,7 +166,7 @@ hh_auto_reply/
 **Дмитрий** — Design Technologist, Product UI/UX & Frontend Developer  
 * GitHub: [@228burger228](https://github.com/228burger228)  
 * Портфолио: [228burger228.github.io/burgerportfolio2.0](https://228burger228.github.io/burgerportfolio2.0/#design)  
-* Telegram: [@aimovl](https://t.me/aimovl)
+
 
 ---
 
