@@ -1,0 +1,27 @@
+# Секреты и конфигурация
+.env
+
+# Сессии браузера и кеш
+browser_profile/
+
+# База данных SQLite и WAL-файлы
+applications.db
+applications.db-journal
+applications.db-wal
+applications.db-shm
+
+# Логи работы
+*.log
+bot.log
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Окружение и IDE
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
